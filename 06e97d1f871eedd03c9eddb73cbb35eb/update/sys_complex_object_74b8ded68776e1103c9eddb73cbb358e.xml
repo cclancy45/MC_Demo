@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDb0b8ded69e76e11023a086a0bf447f8e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>06e97d1f871eedd03c9eddb73cbb35eb</scope_name>
+        <serialized_content>{"FlowDesigner:FDb0b8ded69e76e11023a086a0bf447f8e":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDb0b8ded69e76e11023a086a0bf447f8e.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"chargebackRefNum\",\"mandatory\":\"false\",\"child_name\":\"chargebackrefnum_child0\",\"uiUniqueId\":\"e23123ba-82cd-4098-a321-c48557952220\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDb0b8ded69e76e11023a086a0bf447f8e\",\"child_label\":\"chargebackRefNum_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"40b7195c-f936-4c67-83e5-a33243674337\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-16 15:51:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74b8ded68776e1103c9eddb73cbb358e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDb0b8ded69e76e11023a086a0bf447f8e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CC - MC - Transport App" source="x_snc_cc_mc_tran_0">06e97d1f871eedd03c9eddb73cbb35eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CC - MC - Transport App">06e97d1f871eedd03c9eddb73cbb35eb</sys_scope>
+        <sys_update_name>sys_complex_object_74b8ded68776e1103c9eddb73cbb358e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-16 15:51:32</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

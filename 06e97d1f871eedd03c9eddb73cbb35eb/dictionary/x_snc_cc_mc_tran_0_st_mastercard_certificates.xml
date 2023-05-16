@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="489a0ada87f2e1103c9eddb73cbb35e3" label="MasterCard Certificates" max_length="40" name="x_snc_cc_mc_tran_0_st_mastercard_certificates" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remote ID" max_length="40" name="remote_id" type="string"/>
+    </element>
+</database>
